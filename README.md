@@ -133,3 +133,6 @@ Objetos NodeList são coleções de nodos semelhantes aos objetos retornados pel
     * clientX/clientY (relative to document)
     * offsetX/offsetY (relative to element)
     * preventDefault()
+
+
+🎹 Create a virtual piano with html, css and vanilla javascript. https://www.youtube.com/watch?v=UftSB4DaRU4
